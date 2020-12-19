@@ -6,4 +6,4 @@ Download the ER diagram to have a better look at it.
 
 ## ER Diagram
 
-![E-R_Diagram .jpg](E-R_Diagram .jpg)
+![E-R_Diagram .jpg](er_diagram.jpg)
